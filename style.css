@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(218, 213, 247);
+}
+.text-shadow{
+    text-shadow: 0 0px 2px black;
+}
+.card{
+    border-radius: 4%;
+}
+.card-img-top{
+    border-radius: 7%;
+}
+.card-text{
+    font-size: 1rem;
+}
